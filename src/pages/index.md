@@ -1,8 +1,12 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: >-
+  BJMPSLAI is a non-stock, non-profit savings and loans association for the
+  BJMP.
 image: /img/undraw_metrics_gtu7.svg
-heading: Great coffee with a conscience
+heading: >-
+  BJMPSLAI is a non-stock, non-profit savings and loans association for the
+  BJMP.
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
